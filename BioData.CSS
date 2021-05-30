@@ -1,0 +1,11 @@
+.warna{
+	color:black;
+	background-color: aqua;
+	height: 450px;
+	padding: 10px 10px;
+	border: 2px solid silver;
+	border-radius: 100px;
+	width: 350px;
+	background-image: url("abc.PNG")
+
+}
